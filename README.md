@@ -1,4 +1,4 @@
 # git-learn
 This is my first git-repository.
 <br>
-Author - Vikas Naikkk.
+Author - Vikas Naik.
